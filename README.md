@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o André Gomes</h1>
+<h1 align="center">Olá! Eu sou o André Gomes</h1>
 
 <p align="center">
   💻 Desenvolvedor Front-end | ⚛️ React | 💡 JavaScript | 🎓 LTIS - PUC Minas
