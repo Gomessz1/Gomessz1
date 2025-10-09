@@ -7,8 +7,7 @@
 ---
 
 ### 🚀 Sobre mim
-Atualmente trabalho na **LTIS PUC Minas**, focado em **Front-end com React e JavaScript**.  
-Gosto de criar interfaces bonitas, funcionais.
+Atualmente atuo no desenvolvimento de softwares na **LTIS PUC Minas**, com foco em Front-end usando React e JavaScript. Tenho paixão por criar interfaces bonitas e funcionais, além de automatizar processos para tornar o trabalho mais ágil e eficiente.
 
 ---
 
