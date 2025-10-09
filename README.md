@@ -28,24 +28,24 @@ Gosto de criar interfaces bonitas, funcionais.
 ---
 
 ### 🐍 Minhas contribuições
-![Snake animation](https://raw.githubusercontent.com/andregomes/andregomes/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/Gomessz1/Gomessz1/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ### 🌐 Minhas redes
 
 <p align="center">
+  <a href="www.linkedin.com/in/andré-gomes-11b54a366" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+   <a href="mailto:andre.gcordeiro20@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://www.instagram.com/andregomessc" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discord.gg/teuservidor" target="_blank">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="mailto:andre.gcordeiro20@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="www.linkedin.com/in/andré-gomes-11b54a366" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
