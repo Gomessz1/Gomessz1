@@ -1,8 +1,8 @@
-name: 🐍 Generate Snake Animation
+name: 🐍 Generate Futuristic Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -13,14 +13,14 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate Snake
+      - name: Generate Futuristic Snake
         uses: Platane/snk@v3
         with:
           github_user_name: Gomessz1
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-light.svg?palette=github-light
+            dist/github-contribution-grid-snake-futuristic.svg?palette=%23ff00ff,%2300ffff,%23ffea00
+            dist/github-contribution-grid-snake-futuristic-dark.svg?palette=%23ff00ff,%2300ffff,%23ffea00&theme=dark
+            dist/github-contribution-grid-snake-futuristic-light.svg?palette=%23ff00ff,%2300ffff,%23ffea00&theme=light
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
