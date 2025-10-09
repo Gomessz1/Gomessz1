@@ -17,7 +17,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Gomessz1
-          palette: "#ff00ff,#00ffff,#ffea00"   # cores neon rosa, azul e amarelo
+          palette_file: futuristic-palette.txt
           outputs: |
             dist/github-contribution-grid-snake-futuristic.svg
             dist/github-contribution-grid-snake-futuristic-dark.svg
