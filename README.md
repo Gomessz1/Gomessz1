@@ -12,7 +12,7 @@ Gosto de criar interfaces bonitas, funcionais.
 
 ---
 
-### 🧰 Tecnologias que uso
+### ⚙️ Tecnologias que uso
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,github,vscode,figma,git,html,css,js" />
 </p>
