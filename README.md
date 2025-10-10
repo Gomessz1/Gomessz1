@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=FF0000&section=header"/>
+
 <h1 align="center">Olá! Eu sou o André Gomes</h1>
 
 <p align="center">
@@ -20,9 +22,10 @@ Atualmente atuo no desenvolvimento de softwares na **LTIS PUC Minas**, com foco 
 
 ### 📊 Estatísticas do GitHub
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andregomes&show_icons=true&theme=github_dark" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregomes&layout=compact&theme=github_dark" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andregomes&show_icons=true&theme=react&bg_color=0d1117&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregomes&layout=compact&theme=react&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FF0000" />
 </p>
+
 
 ---
 
@@ -48,3 +51,4 @@ Atualmente atuo no desenvolvimento de softwares na **LTIS PUC Minas**, com foco 
   </a>
 </p>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FF0000&section=footer"/>
