@@ -26,10 +26,17 @@ Atualmente atuo no desenvolvimento de softwares na **LTIS PUC Minas**, com foco 
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregomes&layout=compact&theme=react&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=005CFF" />
 </p>
 
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gomessz1&radius=16&theme=react-dark&area=true&area_color=005CFF&point=00CFFF&line=005CFF&title_color=00CFFF&color=FFFFFF&bg_color=0D1117&order=5" height="300" alt="activity-graph graph" />
+</div>
+
 
 ---
 
 ### 🐍 Minhas contribuições
+
 ![Snake animation](https://raw.githubusercontent.com/Gomessz1/Gomessz1/output/github-contribution-grid-snake-dark.svg)
 
 ---
