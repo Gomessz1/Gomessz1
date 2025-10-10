@@ -17,13 +17,12 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: Gomessz1
-          outputs: |
-           dist/github-contribution-grid-snake.svg?color_snake=#005CFF&color_dots=#1E90FF,#00CFFF,#005CFF&color_background=#0D1117
-           dist/github-contribution-grid-snake-dark.svg?color_snake=#005CFF&color_dots=#1E90FF,#00CFFF,#005CFF&color_background=#0D1117
-           dist/github-contribution-grid-snake-light.svg?color_snake=#005CFF&color_dots=#1E90FF,#00CFFF,#005CFF&color_background=#FFFFFF
+              outputs: |
+               dist/github-contribution-grid-snake.svg?color_snake=#005CFF&color_dots=#1E90FF,#00CFFF,#005CFF
+               dist/github-contribution-grid-snake-dark.svg?color_snake=#005CFF&color_dots=#1E90FF,#00CFFF,#005CFF
+               dist/github-contribution-grid-snake-light.svg?color_snake=#005CFF&color_dots=#1E90FF,#00CFFF,#005CFF
 
-
-
+    
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
