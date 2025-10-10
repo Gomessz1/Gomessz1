@@ -18,10 +18,10 @@ jobs:
         with:
           github_user_name: Gomessz1
           outputs: |
-           dist/github-contribution-grid-snake.svg?color_snake=#005CFF&color_dots=#93F9FF,#00FFFF,#0080FF
-           dist/github-contribution-grid-snake-dark.svg?color_snake=#005CFF&color_dots=#93F9FF,#00FFFF,#0080FF
+           dist/github-contribution-grid-snake.svg?color_snake=#005CFF&color_dots=#FFFFFF,#93F9FF,#00FFFF,#0080FF
+           dist/github-contribution-grid-snake-dark.svg?color_snake=#005CFF&color_dots=#FFFFFF,#93F9FF,#00FFFF,#0080FF
            dist/github-contribution-grid-snake-light.svg?color_snake=#005CFF&color_dots=#FFFFFF,#7FDBFF,#1E90FF
-
+           
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
