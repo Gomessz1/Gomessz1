@@ -15,7 +15,7 @@ Atualmente atuo no desenvolvimento de softwares na **LTIS PUC Minas**, com foco 
 
 ### ⚙️ Tecnologias que uso
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,github,vscode,figma,git,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,vscode,figma,,github,git,html,css,js" />
 </p>
 
 ---
