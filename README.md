@@ -20,14 +20,6 @@ Atualmente atuo no desenvolvimento de softwares na **LTIS PUC Minas**, com foco 
 
 ---
 
-### 📊 Estatísticas do GitHub
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andregomes&show_icons=true&theme=react&bg_color=0d1117&title_color=005CFF&text_color=FFFFFF&icon_color=005CFF" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregomes&layout=compact&theme=react&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=005CFF" />
-</p>
-
----
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gomessz1&radius=16&theme=react-dark&area=true&area_color=005CFF&point=00CFFF&line=005CFF&title_color=00CFFF&color=FFFFFF&bg_color=0D1117&order=5" height="300" alt="activity-graph graph" />
 </div>
