@@ -20,9 +20,8 @@ Atualmente atuo no desenvolvimento de softwares na **LTIS PUC Minas**, com foco 
 ---
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gomessz1&radius=16&theme=react-dark&area=true&area_color=005CFF&point=00CFFF&line=005CFF&title_color=00CFFF&color=FFFFFF&bg_color=0D1117&order=5" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gomessz1&radius=16&theme=react-dark&area=true&area_color=FFD700&point=FFD700&line=FFD700&title_color=FFD700&color=FFD700&bg_color=0D1117&order=5" height="300" alt="activity-graph graph" />
 </div>
-
 
 ---
 
