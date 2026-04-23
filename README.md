@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=005CFF&section=header"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 <h1 align="center">Olá! Eu sou o André Gomes</h1>
 
 <p align="center">
@@ -50,4 +49,4 @@ Atualmente atuo no desenvolvimento de softwares na **LTIS PUC Minas**, com foco 
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=005CFF&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
