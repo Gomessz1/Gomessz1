@@ -43,9 +43,6 @@ Atualmente atuo no desenvolvimento de softwares na **LTIS PUC Minas**, com foco 
   <a href="https://www.instagram.com/andregomessc" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://discord.gg/teuservidor" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer"/>
